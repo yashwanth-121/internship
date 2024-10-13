@@ -1,0 +1,11 @@
+Flask
+pandas
+numpy
+joblib
+scikit-learn
+pulp
+gunicorn
+category_encoders
+seaborn
+matplotlib
+statsmodels
